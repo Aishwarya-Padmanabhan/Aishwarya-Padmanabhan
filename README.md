@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aishwarya%20Padmanabhan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Strategic%20Marketing%20Professional%20|%20EV%20Industry%20Expert%20|%20Published%20Author&descAlignY=55&descSize=18"/>
 </div>
@@ -11,14 +10,14 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/253334/screenshots/16012252/media/792dc52740ce7fda1a3dfbcf0dc71e2b.gif"/>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a5c0b9dd3b02dd0ff1b76a.gif"/>
 
 I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV battery market strategies. With a unique blend of technical consulting background and strategic marketing expertise, I drive data-driven growth initiatives.
 
 🔋 **Currently:** Driving EV battery market strategies at **Samsung SDI**  
 🎓 **Education:** MBA Candidate at **IIM Kozhikode** (Strategy & Marketing)  
 💼 **Background:** Former **SAP Consultant** at Capgemini  
-📚 **Author:** ["EPIPHANY ECHOES"](https://amzn.in/d/6xV4Ini) - ⭐ Top 120 Amazon Bestseller  
+📚 **Author:** "EPIPHANY ECHOES" - Top 120 Amazon Bestseller  
 🌍 **Languages:** English, Hindi, Kannada, Malayalam, Japanese (N4)
 
 <br clear="right"/>
@@ -35,7 +34,7 @@ I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV 
 | 💻 **SAP Consultant** | Capgemini | Jul 2021 - Oct 2024 | SAP C4C Implementation |
 | 🚀 **Startup Founder** | The Glee Project | Jan 2021 - Jul 2021 | E-commerce Gifting Platform |
 | 📊 **Product Distribution Coordinator** | Janaki Enterprises | Sep 2020 - Jan 2021 | Market Expansion |
-| 👩💻 **Software Engineer** | L&T InfoTech | Jul 2016 - Nov 2018 | AML Projects |
+| 👩‍💻 **Software Engineer** | L&T InfoTech | Jul 2016 - Nov 2018 | AML Projects |
 
 </div>
 
@@ -75,10 +74,10 @@ mindmap
 <div align="center">
 
 | 🎯 **Marketing Excellence** | 📈 **Business Growth** | 🌟 **Recognition** |
-|:---------------------------|:----------------------|:------------------|
-| ⭐ EV battery market leadership | ⭐ Founded profitable startup | ⭐ Top 120 Amazon Bestseller |
-| ⭐ Strategic client relationships | ⭐ E-commerce platform scaling | ⭐ Google Marketing Certified |
-| ⭐ Data-driven forecasting | ⭐ Market expansion success | ⭐ SAP Sales Cloud Certified |
+|:---:|:---:|:---:|
+| ✅ EV battery market leadership | ✅ Founded profitable startup | ✅ Top 120 Amazon Bestseller |
+| ✅ Strategic client relationships | ✅ E-commerce platform scaling | ✅ Google Marketing Certified |
+| ✅ Data-driven forecasting | ✅ Market expansion success | ✅ SAP Sales Cloud Certified |
 
 </div>
 
@@ -88,17 +87,17 @@ mindmap
 
 <div align="center">
 
-### 📊 Marketing & Analytics  
+### 📊 Marketing & Analytics
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
 
-### 💼 Business Tools  
+### 💼 Business Tools
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🌐 Digital Marketing  
+### 🌐 Digital Marketing
 ![Social Media](https://img.shields.io/badge/Social_Media-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
 ![Email Marketing](https://img.shields.io/badge/Email_Marketing-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
@@ -112,16 +111,16 @@ mindmap
 
 <div align="center">
 
-### 🔋 **EV Market Intelligence**  
+### 🔋 **EV Market Intelligence**
 *Comprehensive analysis of electric vehicle battery market trends, competitor strategies, and growth opportunities*
 
-### 🎯 **Customer Segmentation Studies**  
+### 🎯 **Customer Segmentation Studies** 
 *Data-driven customer analysis and personalized marketing strategies for B2B clients*
 
-### 📊 **Campaign Performance Analytics**  
+### 📊 **Campaign Performance Analytics**
 *ROI optimization frameworks and performance measurement dashboards*
 
-### 🛠️ **Marketing Strategy Templates**  
+### 🛠️ **Marketing Strategy Templates**
 *Reusable frameworks for strategic planning, forecasting, and campaign management*
 
 </div>
@@ -162,8 +161,7 @@ mindmap
 </div>
 
 <div align="center">
-
+  
 ### 💡 *"Transforming market insights into strategic business growth"* 💡
 
 </div>
-
