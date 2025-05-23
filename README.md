@@ -1,3 +1,4 @@
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aishwarya%20Padmanabhan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Strategic%20Marketing%20Professional%20|%20EV%20Industry%20Expert%20|%20Published%20Author&descAlignY=55&descSize=18"/>
 </div>
@@ -10,14 +11,14 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1787323/screenshots/5977195/media/57c5dbf36bcd5ed1df6d1943e23b66d7.gif"/>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV battery market strategies. With a unique blend of technical consulting background and strategic marketing expertise, I drive data-driven growth initiatives.
 
 🔋 **Currently:** Driving EV battery market strategies at **Samsung SDI**  
 🎓 **Education:** MBA Candidate at **IIM Kozhikode** (Strategy & Marketing)  
 💼 **Background:** Former **SAP Consultant** at Capgemini  
-📚 **Author:** "EPIPHANY ECHOES" - Top 120 Amazon Bestseller  
+📚 **Author:** "EPIPHANY ECHOES" - ⭐ Top 120 Amazon Bestseller  
 🌍 **Languages:** English, Hindi, Kannada, Malayalam, Japanese (N4)
 
 <br clear="right"/>
@@ -75,9 +76,9 @@ mindmap
 
 | 🎯 **Marketing Excellence** | 📈 **Business Growth** | 🌟 **Recognition** |
 |:---------------------------|:----------------------|:------------------|
-| - EV battery market leadership | - Founded profitable startup | - Top 120 Amazon Bestseller |
-| - Strategic client relationships | - E-commerce platform scaling | - Google Marketing Certified |
-| - Data-driven forecasting | - Market expansion success | - SAP Sales Cloud Certified |
+| - ⭐ EV battery market leadership | - ⭐ Founded profitable startup | - ⭐ Top 120 Amazon Bestseller |
+| - ⭐ Strategic client relationships | - ⭐ E-commerce platform scaling | - ⭐ Google Marketing Certified |
+| - ⭐ Data-driven forecasting | - ⭐ Market expansion success | - ⭐ SAP Sales Cloud Certified |
 
 </div>
 
