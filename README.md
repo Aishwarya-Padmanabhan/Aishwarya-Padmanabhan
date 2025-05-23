@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a5c0b9dd3b02dd0ff1b76a.gif"/>
+<img align="right" width="300" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg"/>
 
 I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV battery market strategies. With a unique blend of technical consulting background and strategic marketing expertise, I drive data-driven growth initiatives.
 
