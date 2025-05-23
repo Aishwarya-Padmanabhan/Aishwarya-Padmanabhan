@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/253334/screenshots/16012252/media/792dc52740ce7fda1a3dfbcf0dc71e2b.gif"/>
 
 I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV battery market strategies. With a unique blend of technical consulting background and strategic marketing expertise, I drive data-driven growth initiatives.
 
@@ -76,9 +76,9 @@ mindmap
 
 | 🎯 **Marketing Excellence** | 📈 **Business Growth** | 🌟 **Recognition** |
 |:---------------------------|:----------------------|:------------------|
-| - ⭐ EV battery market leadership | - ⭐ Founded profitable startup | - ⭐ Top 120 Amazon Bestseller |
-| - ⭐ Strategic client relationships | - ⭐ E-commerce platform scaling | - ⭐ Google Marketing Certified |
-| - ⭐ Data-driven forecasting | - ⭐ Market expansion success | - ⭐ SAP Sales Cloud Certified |
+| ⭐ EV battery market leadership | ⭐ Founded profitable startup | ⭐ Top 120 Amazon Bestseller |
+| ⭐ Strategic client relationships | ⭐ E-commerce platform scaling | ⭐ Google Marketing Certified |
+| ⭐ Data-driven forecasting | ⭐ Market expansion success | ⭐ SAP Sales Cloud Certified |
 
 </div>
 
