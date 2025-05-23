@@ -18,7 +18,7 @@ I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV 
 🔋 **Currently:** Driving EV battery market strategies at **Samsung SDI**  
 🎓 **Education:** MBA Candidate at **IIM Kozhikode** (Strategy & Marketing)  
 💼 **Background:** Former **SAP Consultant** at Capgemini  
-📚 **Author:** "EPIPHANY ECHOES" - ⭐ Top 120 Amazon Bestseller  
+📚 **Author:** ["EPIPHANY ECHOES"](https://amzn.in/d/6xV4Ini) - ⭐ Top 120 Amazon Bestseller  
 🌍 **Languages:** English, Hindi, Kannada, Malayalam, Japanese (N4)
 
 <br clear="right"/>
