@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi! I'm Aishwarya Padmanabhan 👋
 
-<!--
-**Aishwarya-Padmanabhan/Aishwarya-Padmanabhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Marketing Professional | Published Author | MBA Candidate
 
-Here are some ideas to get you started:
+Currently driving marketing and sales strategies for EV batteries at **Samsung SDI** while pursuing my MBA at **IIM Kozhikode**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 What I Do
+
+**Senior Marketing & Sales Executive** specializing in:
+- Market Research & Analysis
+- Strategic Marketing Planning  
+- Customer Relationship Management
+- Digital Marketing & E-commerce
+- Brand Management
+
+## 📊 Experience Highlights
+
+- **Samsung SDI** - Senior Marketing & Sales Executive (Current)
+- **Capgemini** - Marketing Strategy Consultant (3+ years)
+- **The Glee Project** - Startup Founder (E-commerce gifting platform)
+- **Published Author** - "EPIPHANY ECHOES" (Top 120 Amazon Bestseller)
+
+## 🏆 Key Achievements
+
+✅ Manage key client relationships for EV battery solutions  
+✅ Conduct market research and competitive analysis  
+✅ Create marketing forecasts and performance reports  
+✅ Founded and scaled a profitable e-commerce business  
+✅ Google Digital Marketing & E-commerce Certified  
+✅ Multilingual communication (English, Hindi, Kannada, Malayalam, Japanese)
+
+## 📈 Marketing Projects
+
+Here you'll find my marketing case studies, analysis, and tools:
+
+- **EV Market Analysis** - Industry trends and insights
+- **Customer Segmentation Studies** - Data-driven customer analysis  
+- **Marketing Campaign Performance** - ROI analysis and optimization
+- **Digital Marketing Tools** - Templates and calculators
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aishwarya-padmanabhan-086972102)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:aishwarya.march95@gmail.com)
+
+---
+
+*"Transforming market insights into strategic business growth"*
