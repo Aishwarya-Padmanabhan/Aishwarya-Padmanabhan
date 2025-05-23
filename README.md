@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1787323/screenshots/5977195/media/57c5dbf36bcd5ed1df6d1943e23b66d7.gif"/>
 
 I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV battery market strategies. With a unique blend of technical consulting background and strategic marketing expertise, I drive data-driven growth initiatives.
 
@@ -34,7 +34,7 @@ I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV 
 | 💻 **SAP Consultant** | Capgemini | Jul 2021 - Oct 2024 | SAP C4C Implementation |
 | 🚀 **Startup Founder** | The Glee Project | Jan 2021 - Jul 2021 | E-commerce Gifting Platform |
 | 📊 **Product Distribution Coordinator** | Janaki Enterprises | Sep 2020 - Jan 2021 | Market Expansion |
-| 👩‍💻 **Software Engineer** | L&T InfoTech | Jul 2016 - Nov 2018 | AML Projects |
+| 👩💻 **Software Engineer** | L&T InfoTech | Jul 2016 - Nov 2018 | AML Projects |
 
 </div>
 
@@ -74,10 +74,10 @@ mindmap
 <div align="center">
 
 | 🎯 **Marketing Excellence** | 📈 **Business Growth** | 🌟 **Recognition** |
-|:---:|:---:|:---:|
-| ✅ EV battery market leadership | ✅ Founded profitable startup | ✅ Top 120 Amazon Bestseller |
-| ✅ Strategic client relationships | ✅ E-commerce platform scaling | ✅ Google Marketing Certified |
-| ✅ Data-driven forecasting | ✅ Market expansion success | ✅ SAP Sales Cloud Certified |
+|:---------------------------|:----------------------|:------------------|
+| - EV battery market leadership | - Founded profitable startup | - Top 120 Amazon Bestseller |
+| - Strategic client relationships | - E-commerce platform scaling | - Google Marketing Certified |
+| - Data-driven forecasting | - Market expansion success | - SAP Sales Cloud Certified |
 
 </div>
 
@@ -87,19 +87,17 @@ mindmap
 
 <div align="center">
 
-### 📊 Marketing & Analytics
+### 📊 Marketing & Analytics  
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
 
-### 💼 Business Tools
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00D1FF?style=for-the-badge&logo=salesforce&logoColor=white)
+### 💼 Business Tools  
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🌐 Digital Marketing
+### 🌐 Digital Marketing  
 ![Social Media](https://img.shields.io/badge/Social_Media-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
 ![Email Marketing](https://img.shields.io/badge/Email_Marketing-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
@@ -113,16 +111,16 @@ mindmap
 
 <div align="center">
 
-### 🔋 **EV Market Intelligence**
+### 🔋 **EV Market Intelligence**  
 *Comprehensive analysis of electric vehicle battery market trends, competitor strategies, and growth opportunities*
 
-### 🎯 **Customer Segmentation Studies** 
+### 🎯 **Customer Segmentation Studies**  
 *Data-driven customer analysis and personalized marketing strategies for B2B clients*
 
-### 📊 **Campaign Performance Analytics**
+### 📊 **Campaign Performance Analytics**  
 *ROI optimization frameworks and performance measurement dashboards*
 
-### 🛠️ **Marketing Strategy Templates**
+### 🛠️ **Marketing Strategy Templates**  
 *Reusable frameworks for strategic planning, forecasting, and campaign management*
 
 </div>
@@ -149,7 +147,6 @@ mindmap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-padmanabhan-086972102)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwarya.march95@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/yourusername)
 
 <br>
 
@@ -164,7 +161,8 @@ mindmap
 </div>
 
 <div align="center">
-  
+
 ### 💡 *"Transforming market insights into strategic business growth"* 💡
 
 </div>
+
