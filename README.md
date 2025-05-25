@@ -12,7 +12,8 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/Aishwarya-Padmanabhan/Aishwarya-Padmanabhan/main/about-me-animated.gif"/>
 
-I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV battery market strategies. With a unique blend of technical consulting background and strategic marketing expertise, I drive data-driven growth initiatives.
+I'm a **Senior Marketing & Sales Executive** at Samsung SDI, specializing in EV battery market strategies. With a unique blend of technical consulting background and 
+strategic marketing expertise, I drive data-driven growth initiatives.
 
 🔋 **Currently:** Driving EV battery market strategies at **Samsung SDI**  
 🎓 **Education:** MBA Candidate at **IIM Kozhikode** (Strategy & Marketing)  
